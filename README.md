@@ -11,28 +11,6 @@ In this repository, you will find a variety of prompts that can be used with Gem
 
 To get started, simply clone this repository and use the prompts in the README.md file as input for Gemini. You can also use the prompts in this file as inspiration for creating your own.
 
-We hope you find these prompts useful and have fun using Gemini!
-
-
-## 2026 Update: Gemini 3 & thinking models
-
-- Gemini 3 Pro (Nov 2025) and the Gemini 3.x series are "reasoning-first" models with a Deep Think mode; the classic advice below still applies, but for hard tasks describe the **goal and acceptance criteria** instead of spelling out step-by-step reasoning, keep few-shot examples minimal, and put long material first with the instruction restated at the end.
-- Official references: [Gemini API prompt design strategies](https://ai.google.dev/gemini-api/docs/prompting-strategies) · [Thinking in Gemini](https://ai.google.dev/gemini-api/docs/thinking) · [Gemini CLI](https://github.com/google-gemini/gemini-cli) (open-source terminal agent with MCP and Agent Skills support).
-- 中文读者：思考模型的通用提示写法见 [DeepSeek V4 思考模式提示技巧](https://github.com/EmbraceAGI/awesome-chatgpt-zh/blob/main/docs/ChatGPT_prompts.md#deepseek-v4-思考模式提示技巧)，原则对 Gemini 同样适用。
-
-## best practices when writing prompts
-To improve your success with Gemini for Google Workspace, follow some basic best practices when writing prompts telling Gemini what to do. 
-
-- Use natural language
-- Be clear and concise
-- Provide context
-- Use specific and relevant keywords
-- Break down complex tasks into separate prompts
-
-## Prompts:
-
-* [Prompts](./prompts)
-* [Prompt-101](docs/gemini-for-google-workspace-prompting-guide-101.pdf)
 
 ## 中文使用
 在提示词中加入下面这句话，规避语言乱码，让Gemini更懂中文。
